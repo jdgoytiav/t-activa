@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Manual de imagen corporativa T-activa INTERACTIVE</dc:title>
+		<dc:date>2021-03-04T20:25:00Z</dc:date>
+		<dc:language>es-ES</dc:language>
+		<meta property="dcterms:modified">2021-03-04T20:25:00Z</meta>
+		<dc:identifier id="bookid">urn:uuid:8f775978-5a47-4df3-9898-1a60c9f7997b</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-1" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-2" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-3" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-4" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-5" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-6" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-7" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-8" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-9" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-10" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-11" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-12" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-13" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-14" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-14.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-15" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-15.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-16" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-16.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-17" href="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-17.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="AngieSansStd-Bold.otf" href="font/AngieSansStd-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="AngieSansStd-Italic.otf" href="font/AngieSansStd-Italic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="AngieSansStd-Regular.otf" href="font/AngieSansStd-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FontAwesome5Brands-Regular.otf" href="font/FontAwesome5Brands-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FontAwesome5Free-Solid.otf" href="font/FontAwesome5Free-Solid.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FuturaStd-Book.otf" href="font/FuturaStd-Book.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FuturaStd-BookOblique.otf" href="font/FuturaStd-BookOblique.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FuturaStd-Heavy.otf" href="font/FuturaStd-Heavy.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FuturaStd-HeavyOblique.otf" href="font/FuturaStd-HeavyOblique.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FuturaStd-Light.otf" href="font/FuturaStd-Light.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FuturaStd-LightOblique.otf" href="font/FuturaStd-LightOblique.otf" media-type="application/vnd.ms-opentype" />
+		<item id="NeutraText-Book.otf" href="font/NeutraText-Book.otf" media-type="application/vnd.ms-opentype" />
+		<item id="NeutraText-Demi.otf" href="font/NeutraText-Demi.otf" media-type="application/vnd.ms-opentype" />
+		<item id="OPTILester.otf" href="font/OPTILester.otf" media-type="application/vnd.ms-opentype" />
+		<item id="Vivaldii.TTF" href="font/Vivaldii.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x242.png" href="image/242.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x426.png" href="image/426.png" media-type="image/png" />
+		<item id="x427.png" href="image/427.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x51.png" href="image/51.png" media-type="image/png" />
+		<item id="x52.png" href="image/52.png" media-type="image/png" />
+		<item id="x54.png" href="image/54.png" media-type="image/png" />
+		<item id="x55.png" href="image/55.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x708.png" href="image/708.png" media-type="image/png" />
+		<item id="x709.png" href="image/709.png" media-type="image/png" />
+		<item id="x93.png" href="image/93.png" media-type="image/png" />
+		<item id="C_digo_QR_Website.png" href="image/C_digo_QR_Website.png" media-type="image/png" />
+		<item id="FACEBOOK_Foto_de_perfil.png" href="image/FACEBOOK_Foto_de_perfil.png" media-type="image/png" />
+		<item id="FACEBOOK_Foto_de_portada.png" href="image/FACEBOOK_Foto_de_portada.png" media-type="image/png" />
+		<item id="Gorra_magenta.png" href="image/Gorra_magenta.png" media-type="image/png" />
+		<item id="Gorra_negra.png" href="image/Gorra_negra.png" media-type="image/png" />
+		<item id="Logo_GYG.png" href="image/Logo_GYG.png" media-type="image/png" />
+		<item id="Membretado.png" href="image/Membretado.png" media-type="image/png" />
+		<item id="Membretado_PRESENTACI_N.png" href="image/Membretado_PRESENTACI_N.png" media-type="image/png" />
+		<item id="Polera_magenta.png" href="image/Polera_magenta.png" media-type="image/png" />
+		<item id="Polera_negra.png" href="image/Polera_negra.png" media-type="image/png" />
+		<item id="QR_Card.png" href="image/QR_Card.png" media-type="image/png" />
+		<item id="R_tulo_de_DVD_o_CD.png" href="image/R_tulo_de_DVD_o_CD.png" media-type="image/png" />
+		<item id="R_tulo_de_DVD_o_CD_PRESENTACI_N.png" href="image/R_tulo_de_DVD_o_CD_PRESENTACI_N.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral.png" href="image/T-activa_Fitness_Laboral.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral1.png" href="image/T-activa_Fitness_Laboral1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral2.png" href="image/T-activa_Fitness_Laboral2.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral3.png" href="image/T-activa_Fitness_Laboral3.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral4.png" href="image/T-activa_Fitness_Laboral4.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_-20mm-.png" href="image/T-activa_Fitness_Laboral_%2820mm%29.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_BLANCO_FONDO_MAGENTA.png" href="image/T-activa_Fitness_Laboral_BLANCO_FONDO_MAGENTA.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_BLANCO_FONDO_MAGENTA1.png" href="image/T-activa_Fitness_Laboral_BLANCO_FONDO_MAGENTA1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_BLANCO_FONDO_NEGRO.png" href="image/T-activa_Fitness_Laboral_BLANCO_FONDO_NEGRO.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_BLANCO_FONDO_NEGRO1.png" href="image/T-activa_Fitness_Laboral_BLANCO_FONDO_NEGRO1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_FONDO.png" href="image/T-activa_Fitness_Laboral_FONDO.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_FONDO1.png" href="image/T-activa_Fitness_Laboral_FONDO1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_FONDO2.png" href="image/T-activa_Fitness_Laboral_FONDO2.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_FONDO3.png" href="image/T-activa_Fitness_Laboral_FONDO3.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_FONDO_NEGRO.png" href="image/T-activa_Fitness_Laboral_FONDO_NEGRO.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_FONDO_NEGRO1.png" href="image/T-activa_Fitness_Laboral_FONDO_NEGRO1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_GRIS.png" href="image/T-activa_Fitness_Laboral_GRIS.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_GRIS1.png" href="image/T-activa_Fitness_Laboral_GRIS1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_GRIS2.png" href="image/T-activa_Fitness_Laboral_GRIS2.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_GRIS_FONDO.png" href="image/T-activa_Fitness_Laboral_GRIS_FONDO.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_GRIS_FONDO1.png" href="image/T-activa_Fitness_Laboral_GRIS_FONDO1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_NEGRO.png" href="image/T-activa_Fitness_Laboral_NEGRO.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_NEGRO1.png" href="image/T-activa_Fitness_Laboral_NEGRO1.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_NEGRO2.png" href="image/T-activa_Fitness_Laboral_NEGRO2.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_PANTONE.png" href="image/T-activa_Fitness_Laboral_PANTONE.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_PROPORCIONES.png" href="image/T-activa_Fitness_Laboral_PROPORCIONES.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_RESTRICCIONES.png" href="image/T-activa_Fitness_Laboral_RESTRICCIONES.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_RET_CULA.png" href="image/T-activa_Fitness_Laboral_RET_CULA.png" media-type="image/png" />
+		<item id="T-activa_Fitness_Laboral_RGB.png" href="image/T-activa_Fitness_Laboral_RGB.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral.png" href="image/T-activa_Gimnasia_Laboral.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral1.png" href="image/T-activa_Gimnasia_Laboral1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral2.png" href="image/T-activa_Gimnasia_Laboral2.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral3.png" href="image/T-activa_Gimnasia_Laboral3.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_-20mm-.png" href="image/T-activa_Gimnasia_Laboral_%2820mm%29.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_BLANCO_FONDO_MAGENTA.png" href="image/T-activa_Gimnasia_Laboral_BLANCO_FONDO_MAGENTA.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_BLANCO_FONDO_MAGENTA1.png" href="image/T-activa_Gimnasia_Laboral_BLANCO_FONDO_MAGENTA1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_BLANCO_FONDO_NEGRO.png" href="image/T-activa_Gimnasia_Laboral_BLANCO_FONDO_NEGRO.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_BLANCO_FONDO_NEGRO1.png" href="image/T-activa_Gimnasia_Laboral_BLANCO_FONDO_NEGRO1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_FONDO.png" href="image/T-activa_Gimnasia_Laboral_FONDO.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_FONDO1.png" href="image/T-activa_Gimnasia_Laboral_FONDO1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_FONDO_NEGRO.png" href="image/T-activa_Gimnasia_Laboral_FONDO_NEGRO.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_FONDO_NEGRO1.png" href="image/T-activa_Gimnasia_Laboral_FONDO_NEGRO1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_GRIS.png" href="image/T-activa_Gimnasia_Laboral_GRIS.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_GRIS1.png" href="image/T-activa_Gimnasia_Laboral_GRIS1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_GRIS2.png" href="image/T-activa_Gimnasia_Laboral_GRIS2.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_GRIS_FONDO.png" href="image/T-activa_Gimnasia_Laboral_GRIS_FONDO.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_GRIS_FONDO1.png" href="image/T-activa_Gimnasia_Laboral_GRIS_FONDO1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_NEGRO.png" href="image/T-activa_Gimnasia_Laboral_NEGRO.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_NEGRO1.png" href="image/T-activa_Gimnasia_Laboral_NEGRO1.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_NEGRO2.png" href="image/T-activa_Gimnasia_Laboral_NEGRO2.png" media-type="image/png" />
+		<item id="T-activa_Gimnasia_Laboral_RET_CULA.png" href="image/T-activa_Gimnasia_Laboral_RET_CULA.png" media-type="image/png" />
+		<item id="Tarjeta_Jakelin_Fern_ndez.png" href="image/Tarjeta_Jakelin_Fern_ndez.png" media-type="image/png" />
+		<item id="Tarjeta_Jakelin_Fern_ndez1.png" href="image/Tarjeta_Jakelin_Fern_ndez1.png" media-type="image/png" />
+		<item id="Tarjeta_Jakelin_Fern_ndez_PRESENTACI_N.png" href="image/Tarjeta_Jakelin_Fern_ndez_PRESENTACI_N.png" media-type="image/png" />
+		<item id="TWITTER_Foto_de_perfil.png" href="image/TWITTER_Foto_de_perfil.png" media-type="image/png" />
+		<item id="TWITTER_Foto_de_portada.png" href="image/TWITTER_Foto_de_portada.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-1" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-2" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-3" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-4" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-5" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-6" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-7" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-8" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-9" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-10" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-11" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-12" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-13" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-14" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-15" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-16" />
+		<itemref idref="Manual_de_imagen_corporativa_T-activa_INTERACTIVE-17" />
+	</spine>
+</package>
